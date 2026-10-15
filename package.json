@@ -1,0 +1,12 @@
+{
+  "name": "renovate-config",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "renovate-config-validator --strict --no-global default.json",
+    "test": "node test-policy.mjs"
+  },
+  "devDependencies": {
+    "renovate": "44.164.1"
+  }
+}
