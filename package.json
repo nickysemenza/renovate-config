@@ -7,6 +7,6 @@
     "test": "node test-policy.mjs"
   },
   "devDependencies": {
-    "renovate": "44.198.0"
+    "renovate": "44.198.3"
   }
 }
